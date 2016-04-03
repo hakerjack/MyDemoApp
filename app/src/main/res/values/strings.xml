@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPlayground</string>
+    <string name="flickr_grid_activity_name">Flickr Infinite Scroll</string>
+</resources>
